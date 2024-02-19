@@ -4,6 +4,7 @@ int main(void) {
     char operation;
     double num1, num2, result;
     int exitChoice = 0;
+    
 
     do {
         // Get input from the user
@@ -65,8 +66,8 @@ int main(void) {
         scanf("%d", &exitChoice);
 
     } while (exitChoice);
-
     printf("Calculator closed. Goodbye!\n");
 
     return 0;
+
 }
