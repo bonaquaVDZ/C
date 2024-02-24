@@ -2,6 +2,8 @@
 
 int GlobalVar = 1000; // Global variable
 
+
+
 int main(void)
 {
     // All these variables are local
