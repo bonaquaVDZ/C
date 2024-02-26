@@ -1,3 +1,8 @@
+// In the linear search, the idea of the algorithm is to iterate across the array from left to right, searching for a specified element. 
+// O(n) Worst-case scenario: We have to look through the entire arrays of n elements, either because the traget element is the last element of the array or doesn't exist in the array at all
+// Ω(1) Best-case scenario: The target element is the first element of the array, so we can stop looking immediately after we start.
+
+
 #include <stdio.h>
 
 int main(void)
