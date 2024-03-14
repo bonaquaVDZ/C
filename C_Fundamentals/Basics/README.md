@@ -47,4 +47,4 @@
     - Macros
 12. **Error Handling:**
     - perror and strerror functions
-    - errno variable
+    - errno variables
